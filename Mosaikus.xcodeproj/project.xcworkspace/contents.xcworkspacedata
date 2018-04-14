@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MenuExamples.xcodeproj">
+      location = "self:/Users/korbek100/Documents/Desarrollos IOS/MosaikusDemo/Mosaikus.xcodeproj">
    </FileRef>
 </Workspace>

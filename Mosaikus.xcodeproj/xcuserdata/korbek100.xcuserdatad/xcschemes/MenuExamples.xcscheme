@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5737724E203660DC00D07DEC"
-               BuildableName = "MenuExamples.app"
-               BlueprintName = "MenuExamples"
-               ReferencedContainer = "container:MenuExamples.xcodeproj">
+               BuildableName = "Mosaikus.app"
+               BlueprintName = "Mosaikus"
+               ReferencedContainer = "container:Mosaikus.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "57377265203660DE00D07DEC"
-               BuildableName = "MenuExamplesTests.xctest"
-               BlueprintName = "MenuExamplesTests"
-               ReferencedContainer = "container:MenuExamples.xcodeproj">
+               BuildableName = "MosaikusTests.xctest"
+               BlueprintName = "MosaikusTests"
+               ReferencedContainer = "container:Mosaikus.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "57377270203660DE00D07DEC"
-               BuildableName = "MenuExamplesUITests.xctest"
-               BlueprintName = "MenuExamplesUITests"
-               ReferencedContainer = "container:MenuExamples.xcodeproj">
+               BuildableName = "MosaikusUITests.xctest"
+               BlueprintName = "MosaikusUITests"
+               ReferencedContainer = "container:Mosaikus.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5737724E203660DC00D07DEC"
-            BuildableName = "MenuExamples.app"
-            BlueprintName = "MenuExamples"
-            ReferencedContainer = "container:MenuExamples.xcodeproj">
+            BuildableName = "Mosaikus.app"
+            BlueprintName = "Mosaikus"
+            ReferencedContainer = "container:Mosaikus.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5737724E203660DC00D07DEC"
-            BuildableName = "MenuExamples.app"
-            BlueprintName = "MenuExamples"
-            ReferencedContainer = "container:MenuExamples.xcodeproj">
+            BuildableName = "Mosaikus.app"
+            BlueprintName = "Mosaikus"
+            ReferencedContainer = "container:Mosaikus.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5737724E203660DC00D07DEC"
-            BuildableName = "MenuExamples.app"
-            BlueprintName = "MenuExamples"
-            ReferencedContainer = "container:MenuExamples.xcodeproj">
+            BuildableName = "Mosaikus.app"
+            BlueprintName = "Mosaikus"
+            ReferencedContainer = "container:Mosaikus.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
